@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "85677875216",
+    "firebase_url": "https://pixcell-blockbreaker-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "pixcell-blockbreaker",
+    "storage_bucket": "pixcell-blockbreaker.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:85677875216:android:bac3574ace907a9de2aa95",
+        "android_client_info": {
+          "package_name": "com.pixcellplay.bbr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "85677875216-8a3s93kqu4qp7e71adn9s2ji8jsqoodd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZIO-IwroyFIEkyIR_gj4DTL79czGUTUE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "85677875216-8a3s93kqu4qp7e71adn9s2ji8jsqoodd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "85677875216-5hckgoobsel46sij8dejkke6k70qd22m.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.pixcellplay.bbr"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
